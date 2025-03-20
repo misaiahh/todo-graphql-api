@@ -7,5 +7,24 @@
   "devDependencies": {
     "@types/node": "^22.13.10",
     "typescript": "^5.8.2"
-  }
+  },
+  "dependencies": {
+    "@apollo/server": "^4.11.3",
+    "graphql": "^16.10.0"
+  },
+  "name": "graphql-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misaiahh/todo-graphql-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misaiahh/todo-graphql-api/issues"
+  },
+  "homepage": "https://github.com/misaiahh/todo-graphql-api#readme",
+  "description": ""
 }
